@@ -1,0 +1,8 @@
+README
+
+What:
+	A script that can aid in the calculations of setting up a sortase reaction
+	
+Goals:
+	Clean up some of the nastier stuff with loops
+	Add another option: calculate based on the nucleophile amount
